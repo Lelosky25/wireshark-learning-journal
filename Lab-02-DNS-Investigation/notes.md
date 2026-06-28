@@ -16,7 +16,7 @@ Learn how DNS traffic appears in Wireshark and understand how domain names are t
 ## Lab Setup
 
 - Operating System: Kali Linux (VirtualBox VM)
-- Network Interface: eth0
+- Network Interface: Wi-fi
 
 ---
 
